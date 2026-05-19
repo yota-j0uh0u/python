@@ -68,8 +68,16 @@ cnt = {
 }
 print(cnt.values())
 ```
+# join
+
+## 文字列の連結
+
+```
+"".join(["a", "b", "c"])
+
+```
 
 出力：
 ```
-dict_values([5,1,1])
+"abc"
 ```
